@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alvaro! <br/><a href="https://github.com/alvarojavier123">Programmer</a>, Algoritmic Trader <a href="https://github.com/alvarojavier123"></a>
+<h1>Hi, ! <br/><a href="https://github.com/alvarojavier123"></a> <a href="https://github.com/alvarojavier123"></a>
 <h2>📺 Certificates </h2>
 
 - [Crypto Trading Strategies Advanced](https://www.linkedin.com/in/alvaro-molina-825439177/details/education/1747415750171/single-media-viewer/?profileId=ACoAACnjlF0BlB7t9JcDhiB7dlbVeOa76ojb5PA)
